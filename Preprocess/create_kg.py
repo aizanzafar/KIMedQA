@@ -1,5 +1,3 @@
-# # File "/Data/aizan/.local/lib/python3.6/site-packages/quickumls/core.py"
-# #https://github.com/DATEXIS/UMLSParser follow this for creating UMLS-FILE
 
 from quickumls import QuickUMLS
 import re
